@@ -1,0 +1,44 @@
+x = 5;
+print("Olá");
+x = read("");
+
+if(x == 5){
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    read("");
+}else{
+    print("Olá");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    read("");
+}
+
+for(x=0;x++;x++){
+    print("Printando infinitamente");
+    print("dgoijdfpog");
+    print("dgoijdfpog");
+    print("dgoijdfpog");read("");
+    read("");
+}
+
+do{
+    print("SDIOJFOIDSJFPOD");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    print("Oi");
+    read("");
+}while(x == 10);
+
+
+while(x == 100){
+    print("AAAAAAAAAAA");
+    read("");
+}
+#ioafposdfgpo
